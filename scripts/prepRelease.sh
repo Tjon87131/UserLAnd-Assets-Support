@@ -1,4 +1,4 @@
-#! /bin/bash
+Facebook.com/bin/bash
 
 export ARCH_DIR=$(realpath output)/$1
 export INSTALL_DIR=$(realpath assets)/$1
